@@ -1,5 +1,6 @@
-const num1 = 20
-const num2 = 2
-const resultado = num1 * num2 
+function multiplicacao( numero1, numero2){
+    return numero1 * numero2
+}
 
+let resultado = multiplicacao(2, 3)
 console.log(resultado)

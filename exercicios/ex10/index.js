@@ -1,5 +1,5 @@
-const numeroPequeno = 5
-const numeroMaior = 10
+let numeroPequeno = 5
+let numeroMaior = 10
 
-const eMenor = numeroPequeno < numeroMaior
+let eMenor = numeroPequeno < numeroMaior
 console.log(eMenor)
